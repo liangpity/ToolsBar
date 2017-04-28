@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToolsBar</string>
+    <string name="open">開啟</string>
+    <string name="close">關閉</string>
+</resources>

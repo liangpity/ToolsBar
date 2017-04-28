@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/back_up"
+        android:icon="@drawable/defence"
+        android:title="安防"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/scene"
+        android:title="场景"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/set"
+        android:icon="@drawable/koala"
+        android:title="时间"
+        app:showAsAction="never"/>
+</menu>
